@@ -1,17 +1,15 @@
+<h1 align="center">
+  ⚡ <span style="color:#0ff">Ismail</span> ⚡  
+</h1>
+<h3 align="center">
+  Front-End Developer at <span style="color:#ff0066">Xgenious</span><br>
+  <i>Building futuristic web experiences ⚙️</i>
+</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ismail!;Front-End+Developer+from+Bangladesh;UI+Designer+at+Xgenious;Loves+React+%26+Tailwind+CSS!">
-  </a>
+  <img src="https://media.giphy.com/media/3o7TKzDMPKsfkY4YQM/giphy.gif" width="300"/>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer+with+React,;Working+at+Xgenious,;Love+to+learn+new+things+everyday!">
-  </a>
-</p>
-
-<br>
 
 # <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"></picture> **About me**
 
