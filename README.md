@@ -13,16 +13,12 @@
 <br>
 
 - 🎨 A **Front-End Developer** specialized in **React & TailwindCSS**  
-- 💼 Currently working at **Xgenious**  
-- 📍 Based in **Khulna, Bangladesh**  
+- 💼 Currently working as a Software Engineer at Xgenious.
+- 📍 Based in **Dhaka, Bangladesh**  
 - 🌱 Always learning & improving design and development skills  
 - 📫 Reach me at: **ismail.dev.khulna@gmail.com**
 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="25">
 
 
 <br>
