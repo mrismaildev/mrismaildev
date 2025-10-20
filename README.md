@@ -1,14 +1,3 @@
-<h1 align="center">
-  ⚡ <span style="color:#0ff">Ismail</span> ⚡  
-</h1>
-<h3 align="center">
-  Front-End Developer at <span style="color:#ff0066">Xgenious</span><br>
-  <i>Building futuristic web experiences ⚙️</i>
-</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKzDMPKsfkY4YQM/giphy.gif" width="300"/>
-</p>
 
 
 # <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"></picture> **About me**
