@@ -1,4 +1,9 @@
-<h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> <br> I'm Ismail </b></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ismail!;Front-End+Developer+from+Bangladesh;UI+Designer+at+Xgenious;Loves+React+%26+Tailwind+CSS!">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
